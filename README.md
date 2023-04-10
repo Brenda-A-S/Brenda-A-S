@@ -1,4 +1,4 @@
-# :star: :star: :star: :star: :star: :star: Olá Meu nome é Brenda :star: :star: :star: :star: :star: :star:
+# :star: :star: :star: :star: :star: Olá Meu nome é Brenda :star: :star: :star: :star: :star: :star:
 
 💞 Seja bem-vindo/bem-vinda ao meu perfil do GitHub!
 ♥️**Front-End Developer**♥️
