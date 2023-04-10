@@ -1,7 +1,7 @@
-# <h1 align="center"> 💫Olá, meu nome é Brenda💫</h1> 
+# <h1 align="center"> ⭐ ⭐ ⭐ ❤️ Olá, meu nome é Brenda ❤️ ⭐ ⭐ ⭐ </h1> 
 
-<p align= "center">Seja bem-vindo/bem-vinda ao meu perfil do GitHub!</p>
- <div align="center">*Front-End Developer*</div>
+<p align= "center">✔ Seja bem-vindo/bem-vinda ao meu perfil do GitHub! ✔</p>
+ <div align="center">⭐ Front-End Developer ⭐</div>
 <div align="center"><img src="https://user-images.githubusercontent.com/69852246/231012749-25c9df4e-bf21-4077-bcf6-d4bd5557190a.png" /></div>
 
 
