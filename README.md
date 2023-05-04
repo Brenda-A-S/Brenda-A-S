@@ -37,6 +37,3 @@
 
  <a href="http://www.github.com/Brenda-A-S"><img src="https://github-readme-stats.vercel.app/api?username=Brenda-A-S&hide_title=true&show_icons=true&hide=prs,issues,&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0D1117&hide_border=true&show_icons=true" alt="Brenda-A-S's GitHub stats"/></a>
  
-### ✔ Support Me :thumbsup:
-
-<a href="https://www.buymeacoffee.com/brendaAnS"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
