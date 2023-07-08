@@ -35,4 +35,9 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
+
+* Me siga no [Instagram](https://www.instagram.com/brenda_a_s_dev/)
+* Se conecte comigo no [LinkedIn](https://www.linkedin.com/in/brenda-antunes-silva/)
+* Veja meu [Portfólio](https://portfolio-brenda-a-s.web.app/)
+* Meu [LinkTree](https://linktr.ee/brenda_a_s_dev)
  
