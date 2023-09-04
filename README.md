@@ -9,7 +9,6 @@
 <a href='https://www.instagram.com/brenda_a_s_dev/'> <img src='https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='Imagem Instagram' /> </a>
 <a href='https://www.linkedin.com/in/brenda-antunes-silva/'> <img src='https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white' alt='Imagem LinkedIn' /> </a>
 <a href='https://linktr.ee/brenda_a_s_dev'> <img src='https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white' alt='Imagem Linktree' /> </a>
-<a href='https://discord.com/users/Bre#5731'> <img src='https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white' alt='Imagem Discord' /> </a>
  </div>
 
 
@@ -17,7 +16,6 @@
 
 <p align= "center">✔ Seja bem-vindo/bem-vinda ao meu perfil do GitHub! ✔</p>
 <p align= "center">✔ Welcome to my GitHub profile! ✔</p>
- <div align="center">⭐ Front-End Developer ⭐</div>
 <div align="center"><img src="https://user-images.githubusercontent.com/69852246/231012749-25c9df4e-bf21-4077-bcf6-d4bd5557190a.png" /> </div>
 
 ✔ Atualmente sou desenvolvedora Frontend e UI Designer. Qualquer dúvida, sugestão e convite para colaborações você pode entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/brenda-antunes-silva/) ou [Discord](https://discord.com/users/Bre#5731). Veja meu [Portfólio](https://portfolio-brenda-a-s.web.app/).
@@ -25,7 +23,7 @@
 ✔ Currently, I'm Front-End developer and UI Designer. If you have any questions, suggestions, or collaboration invitations, you can contact me through my [LinkedIn](https://www.linkedin.com/in/brenda-antunes-silva/) or [Discord](https://discord.com/users/Bre#5731). See my [Portfolio](https://portfolio-brenda-a-s.web.app/).
 
 
-<p align= "center"> 🌍  São Paulo | 🧠  Learning Angular | 🤝  Open to collaborating on Front-End Projects </p>
+<p align= "center"> 🌍  São Paulo | 🤝  Open to collaborating on Front-End Projects </p>
 
 ### ✔ Skills :art:
 
