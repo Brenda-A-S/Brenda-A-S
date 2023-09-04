@@ -20,9 +20,9 @@
  <div align="center">⭐ Front-End Developer ⭐</div>
 <div align="center"><img src="https://user-images.githubusercontent.com/69852246/231012749-25c9df4e-bf21-4077-bcf6-d4bd5557190a.png" /> </div>
 
-✔ Atualmente sou estudante de desenvolvimento Web, formada em Tecnologia em Analise e Desenvolvimento de Sistemas desde 2020 e estou me especializando em desenvolvimento Front-End. Qualquer dúvida, sugestão e convite para colaborações você pode entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/brenda-antunes-silva/) ou [Discord](https://discord.com/users/Bre#5731). Veja meu [Portfólio](https://portfolio-brenda-a-s.web.app/).
+✔ Atualmente sou desenvolvedora Frontend e UI Designer. Qualquer dúvida, sugestão e convite para colaborações você pode entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/brenda-antunes-silva/) ou [Discord](https://discord.com/users/Bre#5731). Veja meu [Portfólio](https://portfolio-brenda-a-s.web.app/).
 
-✔ Currently, I am a Web development student, graduated in Systems Analysis and Development Technology since 2020, and I am specializing in Front-End development. If you have any questions, suggestions, or collaboration invitations, you can contact me through my [LinkedIn](https://www.linkedin.com/in/brenda-antunes-silva/) or [Discord](https://discord.com/users/Bre#5731). See my [Portfolio](https://portfolio-brenda-a-s.web.app/).
+✔ Currently, I'm Front-End developer and UI Designer. If you have any questions, suggestions, or collaboration invitations, you can contact me through my [LinkedIn](https://www.linkedin.com/in/brenda-antunes-silva/) or [Discord](https://discord.com/users/Bre#5731). See my [Portfolio](https://portfolio-brenda-a-s.web.app/).
 
 
 <p align= "center"> 🌍  São Paulo | 🧠  Learning Angular | 🤝  Open to collaborating on Front-End Projects </p>
