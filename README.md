@@ -6,9 +6,7 @@
 <p align= "center"> <b>Conecte-se comigo | Connect with me...</b> </p>
 
 <div align="center">
-<a href='https://www.instagram.com/brenda_a_s_dev/'> <img src='https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='Imagem Instagram' /> </a>
 <a href='https://www.linkedin.com/in/brenda-antunes-silva/'> <img src='https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white' alt='Imagem LinkedIn' /> </a>
-<a href='https://linktr.ee/brenda_a_s_dev'> <img src='https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white' alt='Imagem Linktree' /> </a>
  </div>
 
 
